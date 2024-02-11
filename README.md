@@ -1,0 +1,2 @@
+# goombot
+Golang communication bot
